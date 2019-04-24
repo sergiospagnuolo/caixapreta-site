@@ -5,8 +5,8 @@
     <description>Desvendando o impacto da tecnologia na sociedade</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Apr 2019 18:04:33 -0300</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 18:04:33 -0300</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 20:53:08 -0300</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 20:53:08 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -29,8 +29,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 04 Dec 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/direitos%20na%20internet/2018/12/04/episodio6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/direitos%20na%20internet/2018/12/04/episodio6.html</guid>
+        <link>http://localhost:4000/episodio6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio6.html</guid>
         
         
         <category>DIREITOS NA INTERNET</category>
@@ -84,8 +84,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 21 Nov 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/direitos%20na%20internet/2018/11/21/episodio5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/direitos%20na%20internet/2018/11/21/episodio5.html</guid>
+        <link>http://localhost:4000/episodio5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio5.html</guid>
         
         
         <category>DIREITOS NA INTERNET</category>
@@ -153,8 +153,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/direitos%20na%20internet/2018/07/02/episodio4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/direitos%20na%20internet/2018/07/02/episodio4.html</guid>
+        <link>http://localhost:4000/episodio4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio4.html</guid>
         
         
         <category>DIREITOS NA INTERNET</category>
@@ -181,8 +181,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/m%C3%ADdia%20e%20jornalismo/2018/07/02/bonus1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/m%C3%ADdia%20e%20jornalismo/2018/07/02/bonus1.html</guid>
+        <link>http://localhost:4000/bonus1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bonus1.html</guid>
         
         
         <category>MÍDIA E JORNALISMO</category>
@@ -244,8 +244,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/m%C3%ADdia%20e%20jornalismo/2018/06/18/episodio3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/m%C3%ADdia%20e%20jornalismo/2018/06/18/episodio3.html</guid>
+        <link>http://localhost:4000/episodio3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio3.html</guid>
         
         
         <category>MÍDIA E JORNALISMO</category>
@@ -323,8 +323,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 20 May 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/c%C3%B3digo%20aberto/2018/05/20/episodio2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/c%C3%B3digo%20aberto/2018/05/20/episodio2.html</guid>
+        <link>http://localhost:4000/episodio2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio2.html</guid>
         
         
         <category>CÓDIGO ABERTO</category>
@@ -377,8 +377,8 @@ Voz na vinheta de apresentação: Heloisa Pizzo
 Estagiário: Feeh Solfieri&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/privacidade%20e%20seguran%C3%A7a/2018/04/23/episodio1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/privacidade%20e%20seguran%C3%A7a/2018/04/23/episodio1.html</guid>
+        <link>http://localhost:4000/episodio1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio1.html</guid>
         
         
         <category>PRIVACIDADE E SEGURANÇA</category>

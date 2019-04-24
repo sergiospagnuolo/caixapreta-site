@@ -1,11 +1,12 @@
 # Site settings
 title: Caixa-Preta
-email:
+email: caixapreta@voltdata.info
 description: "Desvendando o impacto da tecnologia na sociedade"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cxpx.com.br" # the base hostname & protocol for your site
 twitter_username: caixapretacast
 github_username: voltdatalab
+permalink: /:title:output_ext
 
 # Build settings
 #markdown: redcarpet

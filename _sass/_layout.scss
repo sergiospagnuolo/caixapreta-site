@@ -129,6 +129,7 @@
         letter-spacing: -1px;
         color: #333;
         display: block;
+        line-height: 1.8em;
         width: 100%;
 
         @include media-query($on-palm) {
@@ -141,6 +142,8 @@
         color: $brand-color;
         text-transform: uppercase;
         display: inline-block;
+        margin-top: 20px;
+        font-size: 1.3em
     }
 
 /* Post Format
