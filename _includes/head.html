@@ -1,0 +1,53 @@
+<head>
+
+<!--
+
+OBRIGADO POR ESCUTAR O PODCAST CAIXA-PRETA
+FAZEMOS ESSE PROJETO DE <3.
+
+VAI BOSTON CELTICS, GANHA UMA NBA PÁ NÓIS
+
+-->
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="favico.png" />
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Bungee|Bungee+Hairline|Share+Tech+Mono" rel="stylesheet">
+  <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css'> -->
+  <meta name='keywords' content='podcast, política, dados abertos, dados, judiciário, caixa-preta'>
+  <meta name='description' content='Desvendando o impacto da tecnologia na sociedade'>
+  <meta name='copyright' content='Volt Data Lab - www.voltdata.info'>
+  <meta name='language' content='PT'>
+  <meta name='robots' content='index,follow'>
+  <meta name='revised' content='2019'>
+  <meta name='author' content='Volt Data Lab'>
+  <meta name='designer' content='@spagnuolo'>
+  <meta name='reply-to' content='info@voltdata.info'>
+  <meta name='owner' content=''>
+  <meta name='url' content=''>
+  <meta name='identifier-URL' content=''>
+  <meta name='pagename' content='Podcast Caixa-Preta'>
+  <meta name='coverage' content='Brasil'>
+  <meta name='distribution' content='Global'>
+  <meta name='rating' content='General'>
+  <meta name='subtitle' content='Desvendando o impacto da tecnologia na sociedade'>
+  <meta name='target' content='all'>
+  <meta name='HandheldFriendly' content='True'>
+  <meta name='MobileOptimized' content='320'>
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="">
+  <meta property="og:title" content="Podcast Caixa-Preta">
+  <meta property="og:description" content="Desvendando o impacto da tecnologia na sociedade">
+</head>
