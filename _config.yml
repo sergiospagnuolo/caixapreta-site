@@ -1,6 +1,6 @@
 # Site settings
 title: CAIXA-PRETA
-email: caixapreta@voltdata.info
+email: "caixapreta@voltdata.info"
 description: "Desvendando o impacto da tecnologia na sociedade"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cxpx.com.br" # the base hostname & protocol for your site
