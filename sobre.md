@@ -4,15 +4,21 @@ title: Sobre
 permalink: /sobre/
 ---
 
-**Caixa-Preta** é um podcast que desvenda o impacto da tecnologia na sociedade, uma parceria entre o [VOLT DATA LAB](https://voltdata.info) e o [InternetLab](https://www.internetlab.org.br/en/).
+<p><img src="../logo_internelab.png" alt="logo internet lab" width="200px">
+
+<img src="../logo_volt.png" alt="logo volt" width="100px"></p>
+
+**Caixa-Preta** é um podcast que desvenda o impacto da tecnologia na sociedade, uma parceria entre o [VOLT DATA LAB](https://voltdata.info) e o [InternetLab](https://www.internetlab.org.br/en/). O primeiro episódio da primeira temporada foi ar ar em abril de 2018.
 
 Mergulhando em entrevistas, histórias, pesquisas e dados, queremos contar como a internet e os códigos têm efeito sobre a vida e os direitos das pessoas.
 
 A apresentação, o roteiro e a co-produção são do jornalista [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo). A co-produção executiva é de [Francisco Brito Cruz](https://twitter.com/fbritocruz). [Mariana Valente](https://twitter.com/mrnvlnt) é consultora técnica, e [Dennys Antonialli](https://twitter.com/dennysanfran), assim como todo pessoal do InternetLab, são os apoiadores do podcast.
 
-<p><img src="../logo_internelab.png" alt="logo internet lab" width="200px">
+Se você quiser apoiar ou financiar esse podcast, veja abaixo o nosso _deck_ de apresentação para investidores e anunciantes.
 
-<img src="../logo_volt.png" alt="logo volt" width="100px"></p>
+> Nosso email é <a href="mailto:caixapreta@voltdata.info" target="_blank">caixapreta@voltdata.info</a>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRI1ODK-ZMWI0uzZ9ULt9GYAjHw0k56Kar59Myfsx1sGH0v8l98X7o1NDBAwSafDvnydfrlIdrJu4tL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 

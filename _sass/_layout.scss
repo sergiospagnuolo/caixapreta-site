@@ -55,7 +55,7 @@
         }
 
         .page-link {
-            font-family: 'Open Sans';
+            font-family: $base-font-family;
             font-weight: 700 !important;
             line-height: $base-line-height;
             letter-spacing: 0.05em;
@@ -148,6 +148,13 @@
         display: inline-block;
         margin-top: 20px;
         font-size: 1.3em
+    }
+
+    .temporada{
+      padding: 5px 8px;
+      color: #fff;
+      border-radius:5px;
+      font-size: .9em
     }
 
 /* Post Format

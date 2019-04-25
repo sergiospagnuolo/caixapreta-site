@@ -32,6 +32,7 @@ fill: #f0027f
     {% for post in site.posts %}
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        <span class="temporada" style="background-color: {{ post.cor }};">Temporada {{ post.temporada }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</h3>
         <p style="color:#f0027f">{{ post.date | date: "%d/%m de %Y" }} | {{ post.categories }}</p></a>
         <!-- <p>{{ post.description }}</p>

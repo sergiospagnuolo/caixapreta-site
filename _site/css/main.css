@@ -214,7 +214,7 @@ table {
         display: block;
         padding: 5px 10px; } }
   .site-nav .page-link {
-    font-family: 'Open Sans';
+    font-family: "Share Tech Mono", monospace;
     font-weight: 700 !important;
     line-height: 1.5;
     letter-spacing: 0.05em; }
@@ -287,6 +287,12 @@ table {
   display: inline-block;
   margin-top: 20px;
   font-size: 1.3em; }
+
+.temporada {
+  padding: 5px 8px;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 0.9em; }
 
 /* Post Format
  * ============================================== */
