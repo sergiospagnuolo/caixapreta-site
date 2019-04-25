@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Caixa-Preta</title>
+    <title>CAIXA-PRETA</title>
     <description>Desvendando o impacto da tecnologia na sociedade</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Apr 2019 20:53:08 -0300</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 20:53:08 -0300</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 21:30:48 -0300</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 21:30:48 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -22,18 +22,18 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;trilha-do-episódio&quot;&gt;TRILHA DO EPISÓDIO&lt;/h4&gt;
+&lt;h3 id=&quot;trilha-do-episódio&quot;&gt;TRILHA DO EPISÓDIO&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Solo nervoso de bateria de Nate Smith (&lt;a href=&quot;https://www.youtube.com/watch?v=5ZKpAPpHm2Q&amp;amp;list=PLAplGRixTk2u7n8O53-mHw5GZCZ6pPIs7&amp;amp;index=18&amp;amp;t=0s&quot;&gt;YouTube&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 04 Dec 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/episodio6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/episodio6.html</guid>
+        <link>http://localhost:4000/bonus2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bonus2.html</guid>
         
         
-        <category>DIREITOS NA INTERNET</category>
+        <category>MÍDIA E JORNALISMO</category>
         
       </item>
     
@@ -88,7 +88,7 @@
         <guid isPermaLink="true">http://localhost:4000/episodio5.html</guid>
         
         
-        <category>DIREITOS NA INTERNET</category>
+        <category>PRIVACIDADE E SEGURANÇA</category>
         
       </item>
     
@@ -253,7 +253,7 @@
       </item>
     
       <item>
-        <title>Episódio #2 - O STF tem um algoritmo secreto e isso afeta você</title>
+        <title>Episódio #2 - O STF tem um algoritmo secreto</title>
         <description>&lt;h3 id=&quot;nota&quot;&gt;NOTA&lt;/h3&gt;
 
 &lt;p&gt;A produção do Caixa-Preta entrou em contato com as assessorias do Supremo Tribunal Federal, do Superior Tribunal de Justiça (STJ) e do Conselho Nacional de Justiça (CNJ), com quatro perguntas: &lt;strong&gt;1. Como&lt;/strong&gt;, especificamente (passo a passo), é feito o sorteio de casos e processos entre os ministros do tribunal?; &lt;strong&gt;2. Qual&lt;/strong&gt; é o departamento encarregado no tribunal pelo programa de computador que roda o sorteio de casos? Quem é a pessoa responsável?; &lt;strong&gt;3. Quais&lt;/strong&gt; pessoas têm acesso a esse código (pode ser apenas os cargos)?; &lt;strong&gt;4. Qual&lt;/strong&gt; é a justificativa do tribunal para manter o código desse sorteio secreto? Qual a justificativa para não abrir o código? &lt;/p&gt;
@@ -332,7 +332,7 @@
       </item>
     
       <item>
-        <title>Episódio #1 (Piloto) - De vaquinhas e privacidade de dados</title>
+        <title>Episódio #1 - De vaquinhas e privacidade de dados</title>
         <description>&lt;hr /&gt;
 
 &lt;h3 id=&quot;ficha-técnica&quot;&gt;Ficha Técnica&lt;/h3&gt;

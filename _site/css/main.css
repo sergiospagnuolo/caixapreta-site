@@ -7,7 +7,7 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 hr {
-  margin: 20px 0;
+  margin: 0;
   border-top: 1px solid  #f0027f;
   border-color: #f0027f;
   background-color: #f0027f;
@@ -29,6 +29,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
+  margin-top: 15px;
   margin-bottom: 15px; }
 
 /* Images and Figures
@@ -258,10 +259,13 @@ table {
  * ============================================== */
 .post-list {
   margin-left: 0;
-  list-style: none; }
+  list-style: none;
+  font-size: 1em; }
   .post-list > li {
     display: block;
-    padding: 0.1em 1.5em; }
+    padding: 1.5em 1.5em; }
+  .post-list li:hover {
+    background-color: #f4f4f4; }
 
 .post-link {
   font-family: "Share Tech Mono", monospace;
@@ -270,7 +274,7 @@ table {
   letter-spacing: -1px;
   color: #333;
   display: block;
-  line-height: 1.8em;
+  line-height: 1.5;
   width: 100%; }
   @media screen and (max-width: 700px) {
     .post-link {

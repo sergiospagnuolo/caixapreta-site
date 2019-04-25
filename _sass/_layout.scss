@@ -114,10 +114,14 @@
     .post-list {
         margin-left: 0;
         list-style: none;
+        font-size: 1em;
 
         > li {
             display: block;
-            padding: 0.1em 1.5em;
+            padding: 1.5em 1.5em;
+        }
+        li:hover{
+          background-color: #f4f4f4;
         }
 
     }
@@ -129,7 +133,7 @@
         letter-spacing: -1px;
         color: #333;
         display: block;
-        line-height: 1.8em;
+        line-height: $base-line-height;
         width: 100%;
 
         @include media-query($on-palm) {
