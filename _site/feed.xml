@@ -5,9 +5,22 @@
     <description>Desvendando o impacto da tecnologia na sociedade</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 May 2019 17:40:48 -0300</pubDate>
-    <lastBuildDate>Wed, 08 May 2019 17:40:48 -0300</lastBuildDate>
+    <pubDate>Wed, 08 May 2019 17:51:54 -0300</pubDate>
+    <lastBuildDate>Wed, 08 May 2019 17:51:54 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>&lt;span style='color:red'&gt;ESTREIA em 9 de maio de 2019&lt;/span&gt; &lt;br&gt; Episódio #6 - Governando com (até) 280 caracteres</title>
+        <description>
+</description>
+        <pubDate>Wed, 08 May 2019 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/episodio6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio6.html</guid>
+        
+        
+        <category>MÍDIA E JORNALISMO</category>
+        
+      </item>
     
       <item>
         <title>Episódio #BÔNUS - Uma conversa com Claudio W. Abramo sobre proteção de dados pessoais</title>
