@@ -169,6 +169,16 @@
         line-height: 1;
     }
 
+    .page-title {
+        font-size: 2.3em !important;
+        letter-spacing: -1px;
+        line-height: 1;
+        font-family: 'Bungee', sans-serif;
+        border-bottom: 6px dotted #666666;
+        color: #666666;
+        text-align: center;
+    }
+
     .post-content {
         margin-bottom: $spacing-unit;
     }
