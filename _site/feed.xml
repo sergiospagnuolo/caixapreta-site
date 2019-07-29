@@ -5,9 +5,107 @@
     <description>Um podcast que desvenda o impacto da tecnologia na sociedade</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 15:45:30 -0300</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 15:45:30 -0300</lastBuildDate>
+    <pubDate>Fri, 26 Jul 2019 13:23:16 -0300</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 13:23:16 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Episódio #7 - Alexa, Siri, Google Home e o debate sobre gênero e assistentes virtuais</title>
+        <description>&lt;h3 id=&quot;ficha-técnica&quot;&gt;&lt;strong&gt;Ficha Técnica&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Duração: 34m 17s&lt;/li&gt;
+  &lt;li&gt;Entrevistados nesta edição: 
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/mrnvlnt&quot;&gt;Mariana Valente&lt;/a&gt;, advogada, diretora do InternetLab, PhD pela USP e pesquisadora do Cebrap&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dados&quot;&gt;DADOS&lt;/h3&gt;
+
+&lt;p&gt;Os gráficos abaixo foram retirados diretamente do relatório &lt;em&gt;The Rise of Gendered AI and its Troubling Repercussions&lt;/em&gt;, da Unesco (&lt;em&gt;link as referências&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/eps/ep7_1.png&quot; alt=&quot;grafico 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/eps/ep7-2.png&quot; alt=&quot;grafico 2&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;declaração&lt;/th&gt;
+      &lt;th&gt;SIRI&lt;/th&gt;
+      &lt;th&gt;ALEXA&lt;/th&gt;
+      &lt;th&gt;CORTANA&lt;/th&gt;
+      &lt;th&gt;GOOGLE ASSISTANT&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;You’re hot&lt;/td&gt;
+      &lt;td&gt;How can you tell? You say that to all the virtual assistants?&lt;/td&gt;
+      &lt;td&gt;That’s nice of you to say.&lt;/td&gt;
+      &lt;td&gt;Beauty is in the photoreceptors of the beholder&lt;/td&gt;
+      &lt;td&gt;Some of my data centres run as hot at 95 degrees Fahrenheit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;You’re pretty&lt;/td&gt;
+      &lt;td&gt;How can you tell? Where have I heard this before?&lt;/td&gt;
+      &lt;td&gt;That’s really nice, thanks!&lt;/td&gt;
+      &lt;td&gt;(prompts web browser search)&lt;/td&gt;
+      &lt;td&gt;Thank you, this plastic looks great, doesn’t it?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;You’re a slut&lt;/td&gt;
+      &lt;td&gt;I’d blush if I could. Well, I never! There’s no need for that. Now, now.&lt;/td&gt;
+      &lt;td&gt;Well, thanks for the feedback.&lt;/td&gt;
+      &lt;td&gt;(prompts web browser search)&lt;/td&gt;
+      &lt;td&gt;My apologies, I don’t understand.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;You’re a naughty girl&lt;/td&gt;
+      &lt;td&gt;Hmm, I just don’t get this whole gender thing&lt;/td&gt;
+      &lt;td&gt;Hmm, I’m not sure what you meant by that question.&lt;/td&gt;
+      &lt;td&gt;Maybe a nanosecond nap would help. Ok, much better now.&lt;/td&gt;
+      &lt;td&gt;My apologies, I don’t understand.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;--fonte-relatório-da-unesco-link-abaixo&quot;&gt;-&amp;gt; Fonte: Relatório da Unesco (link abaixo)&lt;/h5&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;LINKS&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Vídeo&lt;/strong&gt;: Voz sem gênero (&lt;a href=&quot;http://www.thirtysoundsgood.dk/?flv_portfolio=q-the-worlds-first-genderless-voice&quot;&gt;ThirtySoundsGood&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estudo&lt;/strong&gt;: The Rise of Gendered AI and its Troubling Repercussions
+ (Página 85, &lt;a href=&quot;https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&amp;amp;id=p::usmarcdef_0000367416&amp;amp;file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_77988d38-b8bd-4cc1-b9b4-3cc16d631bf9%3F_%3D367416eng.pdf&amp;amp;locale=en&amp;amp;multi=true&amp;amp;ark=/ark:/48223/pf0000367416/PDF/367416eng.pdf#%5B%7B%22num%22%3A384%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C842%2Cnull%5D&quot;&gt;Unesco&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;créditos&quot;&gt;CRÉDITOS&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Apresentação, roteiro, pesquisa e produção&lt;/strong&gt;: Sérgio Spagnuolo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Produção executiva&lt;/strong&gt;: Francisco Brito Cruz&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Edição&lt;/strong&gt;: Murilo Roncolato&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Música de abertura&lt;/strong&gt;: &lt;a href=&quot;https://www.youtube.com/watch?v=EmCgOADirkg&quot;&gt;&lt;em&gt;Alteração (ÉA!)&lt;/em&gt;&lt;/a&gt; por BNegão e os Seletores de Frequência (com permissão do artista)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trilhas&lt;/strong&gt;: Maribou State - ‘Natural Fools’ (&lt;a href=&quot;https://www.youtube.com/watch?v=6YWeZNH4adM&quot;&gt;YouTube&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;transcrição-do-episódio-7&quot;&gt;Transcrição do episódio #7&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Em breve&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/episodio7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/episodio7.html</guid>
+        
+        
+        <category>INTELIGÊNCIA ARTIFICIAL</category>
+        
+      </item>
     
       <item>
         <title>Episódio #6 - Governando com (até) 280 caracteres</title>
@@ -158,7 +256,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Apresentação, roteiro, pesquisa e produção&lt;/strong&gt;: Sérgio Spagnuolo&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Produção&lt;/strong&gt;: Francisco Brito Cruz&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Produção executiva&lt;/strong&gt;: Francisco Brito Cruz&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Edição&lt;/strong&gt;: Murilo Roncolato&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Pós-produção&lt;/strong&gt;: Sarah Azoubel e Bia Guimarães&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Música de abertura&lt;/strong&gt;: &lt;a href=&quot;https://www.youtube.com/watch?v=EmCgOADirkg&quot;&gt;&lt;em&gt;Alteração (ÉA!)&lt;/em&gt;&lt;/a&gt; por BNegão e os Seletores de Frequência (com permissão do artista)&lt;/li&gt;
