@@ -5,8 +5,8 @@
     <description>Um podcast que desvenda o impacto da tecnologia na sociedade</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 13:23:16 -0300</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 13:23:16 -0300</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2019 14:35:27 -0300</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2019 14:35:27 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -28,51 +28,13 @@
 
 &lt;p&gt;&lt;img src=&quot;../img/eps/ep7_1.png&quot; alt=&quot;grafico 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/eps/ep7-2.png&quot; alt=&quot;grafico 2&quot; /&gt;&lt;/p&gt;
-
 &lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;declaração&lt;/th&gt;
-      &lt;th&gt;SIRI&lt;/th&gt;
-      &lt;th&gt;ALEXA&lt;/th&gt;
-      &lt;th&gt;CORTANA&lt;/th&gt;
-      &lt;th&gt;GOOGLE ASSISTANT&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;You’re hot&lt;/td&gt;
-      &lt;td&gt;How can you tell? You say that to all the virtual assistants?&lt;/td&gt;
-      &lt;td&gt;That’s nice of you to say.&lt;/td&gt;
-      &lt;td&gt;Beauty is in the photoreceptors of the beholder&lt;/td&gt;
-      &lt;td&gt;Some of my data centres run as hot at 95 degrees Fahrenheit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;You’re pretty&lt;/td&gt;
-      &lt;td&gt;How can you tell? Where have I heard this before?&lt;/td&gt;
-      &lt;td&gt;That’s really nice, thanks!&lt;/td&gt;
-      &lt;td&gt;(prompts web browser search)&lt;/td&gt;
-      &lt;td&gt;Thank you, this plastic looks great, doesn’t it?&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;You’re a slut&lt;/td&gt;
-      &lt;td&gt;I’d blush if I could. Well, I never! There’s no need for that. Now, now.&lt;/td&gt;
-      &lt;td&gt;Well, thanks for the feedback.&lt;/td&gt;
-      &lt;td&gt;(prompts web browser search)&lt;/td&gt;
-      &lt;td&gt;My apologies, I don’t understand.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;You’re a naughty girl&lt;/td&gt;
-      &lt;td&gt;Hmm, I just don’t get this whole gender thing&lt;/td&gt;
-      &lt;td&gt;Hmm, I’m not sure what you meant by that question.&lt;/td&gt;
-      &lt;td&gt;Maybe a nanosecond nap would help. Ok, much better now.&lt;/td&gt;
-      &lt;td&gt;My apologies, I don’t understand.&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;../img/eps/ep7-2.png&quot; alt=&quot;grafico 2&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h5 id=&quot;--fonte-relatório-da-unesco-link-abaixo&quot;&gt;-&amp;gt; Fonte: Relatório da Unesco (link abaixo)&lt;/h5&gt;
 
 &lt;h3 id=&quot;links&quot;&gt;LINKS&lt;/h3&gt;
 
@@ -97,6 +59,36 @@
 &lt;h2 id=&quot;transcrição-do-episódio-7&quot;&gt;Transcrição do episódio #7&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;Em breve&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Introdução&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sérgio Spagnuolo&lt;/strong&gt;: Estamos agora em um momento de transição entre tecnologias já existentes e a quase total automação de nossas vidas. Perto de um futuro no qual vamos ser transportados por carros autômatos, no qual teremos nossas encomendas entregues por drones na porta de casa, no qual as nossas geladeiras farão suas próprias compras, a televisão selecionará nosso conteúdo inteiramente por comando de voz e as portas, luzes e quase todos os aspectos de nossas casas serão controlados pela Internet.&lt;/p&gt;
+
+&lt;p&gt;Não há uma data exata para tudo isso estar totalmente integrado em nossas vidas, mas conseguimos especular que nos próximos cincos anos a adoção de muitas das tecnologias de automação de nossas vidas será cada vez mais rápida e decisiva.&lt;/p&gt;
+
+&lt;p&gt;E nenhuma tecnologia é tão crucial para esse futuro quanto as, ou os, assistentes virtuais. Esse recurso é que provavelmente interligará todos os aspectos de nossas vidas em uma única central de comandos.&lt;/p&gt;
+
+&lt;p&gt;Assistentes virtuais nada mais são do que algoritmos pessoais, que aprenderão com seus comandos, rotinas e dúvidas a melhor lhe ajudar no dia a dia, a compor sua agenda, a saber o trânsito, a ouvir as notícias e a organizar sua casa.&lt;/p&gt;
+
+&lt;p&gt;Os benefícios são muito claros e tangíveis. Os problemas, nem tanto, diluídos em meio à benesse.&lt;/p&gt;
+
+&lt;p&gt;Em primeiro lugar, temos sempre a grande questão acerca de tudo na Internet: pra onde vão nossos dados e o que é feito com eles. Mas há também outras questões importantes em jogo, como o excesso de dependência em nossos equipamentos eletrônicos e a exclusão digital.&lt;/p&gt;
+
+&lt;p&gt;Mais sutilmente, temos os preconceitos gerados, mantidos e reforçados pelo aprendizado de máquina e por como esses recursos são construídos. Preconceitos que, em algum momento, tocam na questão de gênero e como percebemos o mundo real.&lt;/p&gt;
+
+&lt;p&gt;Essa é uma história sobre gênero e inteligência artificial, e o quão pouco pensamos nisso.&lt;/p&gt;
+
+&lt;p&gt;Você está ouvindo o Caixa-Preta, um podcast que desvenda o impacto da tecnologia na sociedade, uma parceria entre o Volt Data Lab e o InternetLab. Eu sou Sérgio Spagnuolo.&lt;/p&gt;
+
+&lt;p&gt;E começa, agora.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sérgio&lt;/strong&gt;: Inicialmente, encantado com a minha recém-aquisição de um Google Home, eu queria falar sobre como esses trecos que respondem a seus comandos iriam revolucionar nossas vidas, se tornar uma parte incorporada de nossos cotidianos, desatada das dificuldades e chatices de configurar, atualizar e renovar nossos aplicativos.&lt;/p&gt;
+
+&lt;p&gt;Ao conversar com &lt;strong&gt;Mariana Valente&lt;/strong&gt;, no entanto, a pauta e até minha percepção sobre esses dispositivos mudou. Ainda acho que eles são interessantes, úteis e importantes para o dia a dia, mas certamente já vejo com outros olhos as implicações que essas novas tecnologias podem ter.&lt;/p&gt;
+
+&lt;p&gt;A Mari é diretora do InternetLab e doutora pela USP, e vem acompanhando temas ligados a tecnologia e gênero há anos.&lt;/p&gt;
+
+&lt;p&gt;Vamos para a entrevista.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/episodio7.html</link>
