@@ -1,7 +1,7 @@
 # Site settings
-title: CAIXA-PRETA
+title: Podcast Caixa-Preta - desvendando o impacto da tecnologia na sociedade
 email: "caixapreta@voltdata.info"
-description: "Um podcast que desvenda o impacto da tecnologia na sociedade"
+description: "Um podcast que explora como a tecnologia influencia nossas vidas, através de entrevistas, dados e narrativas envolvente"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cxpx.com.br" # the base hostname & protocol for your site
 twitter_username: caixapretacast
