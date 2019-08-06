@@ -16,19 +16,19 @@ Uma realização de
 
 **--------- O QUE É ---------**
 
-**Caixa-Preta** é um podcast que desvenda o impacto da tecnologia na sociedade, uma parceria entre o [VOLT DATA LAB](https://voltdata.info) e o [InternetLab](https://www.internetlab.org.br/en/). O primeiro episódio da primeira temporada foi ar ar em abril de 2018.
+**Caixa-Preta** é um podcast que desvenda o impacto da tecnologia na sociedade, uma parceria entre o [VOLT DATA LAB](https://voltdata.info) e o [InternetLab](https://www.internetlab.org.br/en/). O primeiro episódio da primeira temporada foi ao ar em abril de 2018.
 
 Mergulhando em entrevistas, histórias, pesquisas e dados, queremos contar como a internet e os códigos têm efeito sobre a vida e os direitos das pessoas.
 
 **--------- QUEM FAZ ---------**
 
-A apresentação, o roteiro, e a produção são de [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo).
+A apresentação e a co-produção-executiva são de [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo).
 
 A produção-executiva é de [Francisco Brito Cruz](https://twitter.com/fbritocruz).
 
-A montagem e a finalização são de [Murilo Roncolato](https://twitter.com/muriloasr).
+A produção é de [Roberta Caroline Camargo](https://twitter.com/robertacmrg).
 
-A pós-produção é de [Sarah Azoubel](https://twitter.com/sarahazl) e de [Bia Guimarães](https://twitter.com/bzguimaraes), do [37 Graus Podcast](https://twitter.com/37podcast).
+A montagem e a finalização são de [Murilo Roncolato](https://twitter.com/muriloasr).
 
 [Mariana Valente](https://twitter.com/mrnvlnt) é consultora técnica, e [Dennys Antonialli](https://twitter.com/dennysanfran), assim como todo pessoal do InternetLab, são os apoiadores do podcast.
 
